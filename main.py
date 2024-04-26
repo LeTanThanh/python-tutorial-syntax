@@ -17,3 +17,12 @@ if __name__ == "__main__":
   # Comments
 
   # This is a single line comment in Python
+
+  # Continuation of statements
+
+  a, b, c = (True, True, True)
+
+  if (a == True) and  \
+    (b == True) and \
+    (c == True):
+    print("Continuation of statements")
