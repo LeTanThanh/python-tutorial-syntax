@@ -34,3 +34,15 @@ if __name__ == "__main__":
   import keyword
 
   print(keyword.kwlist)
+
+  # String literals
+
+  s = 'This is a string'
+  print(s)
+
+  s = "Another string using double quotes"
+  print(s)
+
+  s = '''String can span
+multiple line'''
+  print(s)
