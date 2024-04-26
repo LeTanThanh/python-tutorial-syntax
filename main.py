@@ -26,3 +26,11 @@ if __name__ == "__main__":
     (b == True) and \
     (c == True):
     print("Continuation of statements")
+
+  # Identifiers
+
+  # Keywords
+
+  import keyword
+
+  print(keyword.kwlist)
