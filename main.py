@@ -3,7 +3,7 @@ if __name__ == "__main__":
 
   ## Whitespace and indentation
 
-  # fedine main function to print out something
+  # dedine main function to print out something
   def main():
     i = 1
     max = 10
@@ -13,3 +13,7 @@ if __name__ == "__main__":
 
   # call function main
   main()
+
+  # Comments
+
+  # This is a single line comment in Python
